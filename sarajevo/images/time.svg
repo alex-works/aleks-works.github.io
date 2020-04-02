@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="29" height="30" viewBox="0 0 29 30">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 40px;
+        opacity: 0.4;
+        fill: #282528;
+        font-family: Pe-icon-7-stroke;
+      }
+    </style>
+  </defs>
+  <text id="time" class="cls-1" transform="translate(-0.163 29.565) scale(0.837 0.838)"></text>
+</svg>

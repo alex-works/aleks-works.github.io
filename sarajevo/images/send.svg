@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="29" height="28" viewBox="0 0 29 28">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 40px;
+        fill: #282528;
+        font-family: Pe-icon-7-stroke;
+      }
+    </style>
+  </defs>
+  <text id="send" class="cls-1" transform="translate(-0.584 29.075) scale(0.837 0.838)"></text>
+</svg>

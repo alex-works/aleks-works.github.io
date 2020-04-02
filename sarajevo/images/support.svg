@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="28" height="27" viewBox="0 0 28 27">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 40px;
+        opacity: 0.4;
+        fill: #282528;
+        font-family: Pe-icon-7-stroke;
+      }
+    </style>
+  </defs>
+  <text id="support" class="cls-1" transform="translate(0.416 28.045) scale(0.837 0.838)"></text>
+</svg>
